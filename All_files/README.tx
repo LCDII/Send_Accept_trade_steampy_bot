@@ -1,5 +1,7 @@
 First of all you need to add Steam64ID, shared_secret, identity_secret to steam_guard_main.json
 
+Create a folder, named LPITA_K
+
 After that create run.bat, that will run trade_offer.py Add there yor main account PASSWORD and USERNAME with set.. 
 
 Than create run_reg_bot.bar to run reg_bot.py
